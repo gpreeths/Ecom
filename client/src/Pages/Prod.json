@@ -1,0 +1,45 @@
+{
+    "Shirts": [
+      {
+        "id": "s1",
+        "name": "Symbol Premium Men's Stylish Shirt",
+        "price": 505.0,
+        "image": "https://m.media-amazon.com/images/I/51-pLhPHoBL._SY606_.jpg"
+      },
+      {
+        "id": "s2",
+        "name": "TURMS Men's Anti-Stain Shirt",
+        "price": 305.0,
+        "image": "https://m.media-amazon.com/images/I/71IzZzS2C4L._SX522_.jpg"
+      }
+    ],
+    "Pants": [
+      {
+        "id": "s3",
+        "name": "Comfort Stretch Pants",
+        "price": 625.0,
+        "image": "https://m.media-amazon.com/images/I/61h8fKHybFL._SY879_.jpg"
+      },
+      {
+        "id": "s4",
+        "name": "Premium Cotton Pants",
+        "price": 845.0,
+        "image": "https://m.media-amazon.com/images/I/61j9jJhrStL._SY879_.jpg"
+      }
+    ],
+    "Shoes": [
+      {
+        "id": "s5",
+        "name": "Running Shoes",
+        "price": 485.0,
+        "image": "https://m.media-amazon.com/images/I/61VHvg7wvCL._SY575_.jpg"
+      },
+      {
+        "id": "s6",
+        "name": "Comfort Stretch Shoes",
+        "price": 1203.0,
+        "image": "https://m.media-amazon.com/images/I/71cflgAolqL._SY575_.jpg"
+      }
+    ]
+  }
+  
